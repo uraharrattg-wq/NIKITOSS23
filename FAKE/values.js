@@ -1,9 +1,9 @@
 // values.js
 
 // Основные данные 
-var fio               = "Новалов Максим Михайлович";
+var fio               = "Хоритонов Максим Михайлович";
 var fio_en            = "Muntian Davyd";
-var birth             = "08.02.2006"; //дата рождения
+var birth             = "09.02.2006"; //дата рождения
 var date_give         = "01.02.2024"; //Дата видачи
 var date_out          = "01.02.2034"; // действителен до
 var organ             = "3DEU2"; //орган что выдал документ
@@ -59,13 +59,14 @@ var isStudyEnabled    = false;
 
 // Пути к нужным фото    ?timestamp=N   "photo.jpg?timestamp=N" динамически: var url = "photo.jpg?timestamp=" + N;
 
-var photo_passport = "image_2025-10-22_13-29-44.png"; //эДок, паспорт,
-var photo_rights   = "image_2025-10-22_13-29-44.png"; //права
-var photo_students = "image_2025-10-22_13-29-44.png"; //диплом, студ
-var photo_zagran   = "image_2025-10-22_13-29-44.png"; //загран
+var photo_passport = "https://i.postimg.cc/nL08BVsg/image.png"; //эДок, паспорт,
+var photo_rights   = "https://i.postimg.cc/nL08BVsg/image.png"; //права
+var photo_students = "https://i.postimg.cc/nL08BVsg/image.png"; //диплом, студ
+var photo_zagran   = "https://i.postimg.cc/nL08BVsg/image.png"; //загран
 
 var signPng           = "sign.png"; //подпись
 // Можно добавить еще, если надо
+
 
 
 
