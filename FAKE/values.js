@@ -1,9 +1,9 @@
 // values.js
 
 // Основные данные 
-var fio               = "Хоритонов Максим Михайлович";
+var fio               = "Некрасов Дмитрий Михайлович";
 var fio_en            = "Muntian Davyd";
-var birth             = "09.02.2006"; //дата рождения
+var birth             = "12.02.2006"; //дата рождения
 var date_give         = "01.02.2024"; //Дата видачи
 var date_out          = "01.02.2034"; // действителен до
 var organ             = "3DEU2"; //орган что выдал документ
@@ -66,6 +66,7 @@ var photo_zagran   = "https://i.postimg.cc/nL08BVsg/image.png"; //загран
 
 var signPng           = "sign.png"; //подпись
 // Можно добавить еще, если надо
+
 
 
 
